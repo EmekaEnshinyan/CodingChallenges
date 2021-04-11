@@ -7,7 +7,7 @@ public class MadLibs {
   	public static void main(String[] args){
       String name1 = "Kenichi", name2 = "Miu";
       String adjective1 = "scared", adjective2 = "difficult", adjective3 = "brave";
-      String noun1 = "pole", noun2 = "jugs", noun3 = "fire", noun4 = "glove", noun5 = "gi", noun6 = "statue";
+      String noun1 = "pole", noun2 = "jars", noun3 = "fire", noun4 = "glove", noun5 = "gi", noun6 = "statue";
       String verb1 = "kick";
       String place1 = "Ryouzanpaku";
       int number = 1000;
