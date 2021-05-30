@@ -1,4 +1,4 @@
-/*You just need to write the method, getDay() , which returns the day on that date.*/
+/*You just need to write the method, getDay, which returns the day on that date.*/
 
 import java.util.Scanner;
 import java.time.*;
